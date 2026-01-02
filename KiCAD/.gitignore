@@ -1,0 +1,6 @@
+*.bak
+*.tmp
+*.autosave
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.log
